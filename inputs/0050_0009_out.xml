@@ -1,0 +1,296 @@
+<root>
+    <grid min_x="0" max_x="150" min_y="0" max_y="150"/>
+    <net>
+        <point x="89" y="42" type="pin" layer="pins"/>
+        <point x="89" y="42" type="via" layer="pins_m2"/>
+        <point x="89" y="42" type="via" layer="m2_m3"/>
+        <segment x1="89" y1="42" x2="89" y2="42" layer="m2"/>
+        <point x="7" y="96" type="pin" layer="pins"/>
+        <point x="7" y="96" type="via" layer="pins_m2"/>
+        <point x="7" y="96" type="via" layer="m2_m3"/>
+        <segment x1="7" y1="96" x2="7" y2="96" layer="m2"/>
+        <point x="37" y="16" type="pin" layer="pins"/>
+        <point x="37" y="16" type="via" layer="pins_m2"/>
+        <point x="37" y="16" type="via" layer="m2_m3"/>
+        <segment x1="37" y1="16" x2="37" y2="16" layer="m2"/>
+        <point x="67" y="23" type="pin" layer="pins"/>
+        <point x="67" y="23" type="via" layer="pins_m2"/>
+        <point x="67" y="23" type="via" layer="m2_m3"/>
+        <point x="91" y="44" type="pin" layer="pins"/>
+        <point x="91" y="44" type="via" layer="pins_m2"/>
+        <point x="37" y="20" type="pin" layer="pins"/>
+        <point x="37" y="20" type="via" layer="pins_m2"/>
+        <point x="37" y="20" type="via" layer="m2_m3"/>
+        <segment x1="37" y1="20" x2="37" y2="20" layer="m2"/>
+        <point x="15" y="93" type="pin" layer="pins"/>
+        <point x="15" y="93" type="via" layer="pins_m2"/>
+        <point x="80" y="52" type="pin" layer="pins"/>
+        <point x="80" y="52" type="via" layer="pins_m2"/>
+        <point x="93" y="25" type="pin" layer="pins"/>
+        <point x="93" y="25" type="via" layer="pins_m2"/>
+        <point x="93" y="25" type="via" layer="m2_m3"/>
+        <segment x1="93" y1="25" x2="93" y2="25" layer="m2"/>
+        <point x="21" y="39" type="pin" layer="pins"/>
+        <point x="21" y="39" type="via" layer="pins_m2"/>
+        <point x="21" y="39" type="via" layer="m2_m3"/>
+        <segment x1="21" y1="39" x2="21" y2="39" layer="m2"/>
+        <point x="20" y="17" type="pin" layer="pins"/>
+        <point x="20" y="17" type="via" layer="pins_m2"/>
+        <point x="20" y="17" type="via" layer="m2_m3"/>
+        <segment x1="20" y1="17" x2="20" y2="17" layer="m2"/>
+        <point x="13" y="21" type="pin" layer="pins"/>
+        <point x="13" y="21" type="via" layer="pins_m2"/>
+        <point x="13" y="21" type="via" layer="m2_m3"/>
+        <point x="3" y="86" type="pin" layer="pins"/>
+        <point x="3" y="86" type="via" layer="pins_m2"/>
+        <point x="15" y="35" type="pin" layer="pins"/>
+        <point x="15" y="35" type="via" layer="pins_m2"/>
+        <point x="15" y="35" type="via" layer="m2_m3"/>
+        <point x="53" y="99" type="pin" layer="pins"/>
+        <point x="53" y="99" type="via" layer="pins_m2"/>
+        <point x="53" y="99" type="via" layer="m2_m3"/>
+        <segment x1="53" y1="99" x2="53" y2="99" layer="m2"/>
+        <point x="29" y="22" type="pin" layer="pins"/>
+        <point x="29" y="22" type="via" layer="pins_m2"/>
+        <point x="29" y="22" type="via" layer="m2_m3"/>
+        <point x="72" y="80" type="pin" layer="pins"/>
+        <point x="72" y="80" type="via" layer="pins_m2"/>
+        <point x="72" y="80" type="via" layer="m2_m3"/>
+        <segment x1="72" y1="80" x2="72" y2="80" layer="m2"/>
+        <point x="51" y="84" type="pin" layer="pins"/>
+        <point x="51" y="84" type="via" layer="pins_m2"/>
+        <point x="58" y="82" type="pin" layer="pins"/>
+        <point x="58" y="82" type="via" layer="pins_m2"/>
+        <point x="74" y="95" type="pin" layer="pins"/>
+        <point x="74" y="95" type="via" layer="pins_m2"/>
+        <point x="48" y="69" type="pin" layer="pins"/>
+        <point x="48" y="69" type="via" layer="pins_m2"/>
+        <point x="48" y="69" type="via" layer="m2_m3"/>
+        <segment x1="48" y1="69" x2="48" y2="69" layer="m2"/>
+        <point x="7" y="58" type="pin" layer="pins"/>
+        <point x="7" y="58" type="via" layer="pins_m2"/>
+        <point x="7" y="58" type="via" layer="m2_m3"/>
+        <segment x1="7" y1="58" x2="7" y2="58" layer="m2"/>
+        <point x="88" y="70" type="pin" layer="pins"/>
+        <point x="88" y="70" type="via" layer="pins_m2"/>
+        <point x="88" y="70" type="via" layer="m2_m3"/>
+        <segment x1="88" y1="70" x2="88" y2="70" layer="m2"/>
+        <point x="54" y="76" type="pin" layer="pins"/>
+        <point x="54" y="76" type="via" layer="pins_m2"/>
+        <point x="54" y="76" type="via" layer="m2_m3"/>
+        <segment x1="54" y1="76" x2="54" y2="76" layer="m2"/>
+        <point x="33" y="149" type="pin" layer="pins"/>
+        <point x="33" y="149" type="via" layer="pins_m2"/>
+        <point x="33" y="149" type="via" layer="m2_m3"/>
+        <segment x1="33" y1="149" x2="33" y2="149" layer="m2"/>
+        <point x="90" y="2" type="pin" layer="pins"/>
+        <point x="90" y="2" type="via" layer="pins_m2"/>
+        <point x="90" y="2" type="via" layer="m2_m3"/>
+        <segment x1="90" y1="2" x2="90" y2="2" layer="m2"/>
+        <point x="48" y="60" type="pin" layer="pins"/>
+        <point x="48" y="60" type="via" layer="pins_m2"/>
+        <point x="48" y="60" type="via" layer="m2_m3"/>
+        <segment x1="48" y1="60" x2="48" y2="60" layer="m2"/>
+        <point x="98" y="77" type="pin" layer="pins"/>
+        <point x="98" y="77" type="via" layer="pins_m2"/>
+        <point x="68" y="55" type="pin" layer="pins"/>
+        <point x="68" y="55" type="via" layer="pins_m2"/>
+        <point x="68" y="55" type="via" layer="m2_m3"/>
+        <segment x1="68" y1="55" x2="68" y2="55" layer="m2"/>
+        <point x="87" y="32" type="pin" layer="pins"/>
+        <point x="87" y="32" type="via" layer="pins_m2"/>
+        <point x="47" y="73" type="pin" layer="pins"/>
+        <point x="47" y="73" type="via" layer="pins_m2"/>
+        <point x="17" y="80" type="pin" layer="pins"/>
+        <point x="17" y="80" type="via" layer="pins_m2"/>
+        <point x="56" y="32" type="pin" layer="pins"/>
+        <point x="56" y="32" type="via" layer="pins_m2"/>
+        <point x="56" y="32" type="via" layer="m2_m3"/>
+        <segment x1="56" y1="32" x2="56" y2="32" layer="m2"/>
+        <point x="5" y="34" type="pin" layer="pins"/>
+        <point x="5" y="34" type="via" layer="pins_m2"/>
+        <point x="5" y="34" type="via" layer="m2_m3"/>
+        <segment x1="5" y1="34" x2="5" y2="34" layer="m2"/>
+        <point x="100" y="30" type="pin" layer="pins"/>
+        <point x="100" y="30" type="via" layer="pins_m2"/>
+        <point x="35" y="46" type="pin" layer="pins"/>
+        <point x="35" y="46" type="via" layer="pins_m2"/>
+        <point x="35" y="46" type="via" layer="m2_m3"/>
+        <point x="140" y="15" type="pin" layer="pins"/>
+        <point x="140" y="15" type="via" layer="pins_m2"/>
+        <point x="7" y="66" type="pin" layer="pins"/>
+        <point x="7" y="66" type="via" layer="pins_m2"/>
+        <point x="7" y="66" type="via" layer="m2_m3"/>
+        <segment x1="7" y1="66" x2="7" y2="66" layer="m2"/>
+        <point x="33" y="24" type="pin" layer="pins"/>
+        <point x="33" y="24" type="via" layer="pins_m2"/>
+        <point x="33" y="24" type="via" layer="m2_m3"/>
+        <segment x1="33" y1="24" x2="33" y2="24" layer="m2"/>
+        <point x="10" y="10" type="pin" layer="pins"/>
+        <point x="10" y="10" type="via" layer="pins_m2"/>
+        <point x="73" y="21" type="pin" layer="pins"/>
+        <point x="73" y="21" type="via" layer="pins_m2"/>
+        <point x="66" y="52" type="pin" layer="pins"/>
+        <point x="66" y="52" type="via" layer="pins_m2"/>
+        <point x="66" y="52" type="via" layer="m2_m3"/>
+        <point x="2" y="33" type="pin" layer="pins"/>
+        <point x="2" y="33" type="via" layer="pins_m2"/>
+        <point x="52" y="96" type="pin" layer="pins"/>
+        <point x="52" y="96" type="via" layer="pins_m2"/>
+        <point x="52" y="96" type="via" layer="m2_m3"/>
+        <point x="57" y="114" type="pin" layer="pins"/>
+        <point x="57" y="114" type="via" layer="pins_m2"/>
+        <point x="58" y="4" type="pin" layer="pins"/>
+        <point x="58" y="4" type="via" layer="pins_m2"/>
+        <point x="58" y="4" type="via" layer="m2_m3"/>
+        <segment x1="58" y1="4" x2="58" y2="4" layer="m2"/>
+        <point x="20" y="37" type="pin" layer="pins"/>
+        <point x="20" y="37" type="via" layer="pins_m2"/>
+        <point x="9" y="38" type="pin" layer="pins"/>
+        <point x="9" y="38" type="via" layer="pins_m2"/>
+        <point x="9" y="38" type="via" layer="m2_m3"/>
+        <point x="47" y="47" type="pin" layer="pins"/>
+        <point x="47" y="47" type="via" layer="pins_m2"/>
+        <point x="68" y="96" type="pin" layer="pins"/>
+        <point x="68" y="96" type="via" layer="pins_m2"/>
+        <point x="68" y="96" type="via" layer="m2_m3"/>
+        <segment x1="68" y1="96" x2="68" y2="96" layer="m2"/>
+        <point x="58" y="23" type="via" layer="m2_m3"/>
+        <point x="56" y="47" type="via" layer="m2_m3"/>
+        <point x="93" y="15" type="via" layer="m2_m3"/>
+        <point x="88" y="52" type="via" layer="m2_m3"/>
+        <point x="7" y="80" type="via" layer="m2_m3"/>
+        <point x="93" y="30" type="via" layer="m2_m3"/>
+        <point x="7" y="86" type="via" layer="m2_m3"/>
+        <point x="20" y="21" type="via" layer="m2_m3"/>
+        <point x="53" y="114" type="via" layer="m2_m3"/>
+        <point x="54" y="82" type="via" layer="m2_m3"/>
+        <point x="7" y="93" type="via" layer="m2_m3"/>
+        <point x="9" y="35" type="via" layer="m2_m3"/>
+        <point x="89" y="44" type="via" layer="m2_m3"/>
+        <point x="89" y="32" type="via" layer="m2_m3"/>
+        <point x="15" y="21" type="via" layer="m2_m3"/>
+        <point x="33" y="22" type="via" layer="m2_m3"/>
+        <point x="68" y="52" type="via" layer="m2_m3"/>
+        <point x="68" y="82" type="via" layer="m2_m3"/>
+        <point x="48" y="73" type="via" layer="m2_m3"/>
+        <point x="48" y="47" type="via" layer="m2_m3"/>
+        <point x="68" y="95" type="via" layer="m2_m3"/>
+        <point x="52" y="84" type="via" layer="m2_m3"/>
+        <point x="21" y="37" type="via" layer="m2_m3"/>
+        <point x="5" y="33" type="via" layer="m2_m3"/>
+        <point x="53" y="96" type="via" layer="m2_m3"/>
+        <point x="54" y="84" type="via" layer="m2_m3"/>
+        <point x="5" y="35" type="via" layer="m2_m3"/>
+        <point x="37" y="22" type="via" layer="m2_m3"/>
+        <point x="93" y="32" type="via" layer="m2_m3"/>
+        <point x="72" y="82" type="via" layer="m2_m3"/>
+        <point x="15" y="37" type="via" layer="m2_m3"/>
+        <point x="67" y="21" type="via" layer="m2_m3"/>
+        <point x="54" y="73" type="via" layer="m2_m3"/>
+        <point x="88" y="44" type="via" layer="m2_m3"/>
+        <point x="29" y="21" type="via" layer="m2_m3"/>
+        <point x="56" y="23" type="via" layer="m2_m3"/>
+        <point x="35" y="47" type="via" layer="m2_m3"/>
+        <point x="13" y="10" type="via" layer="m2_m3"/>
+        <point x="66" y="47" type="via" layer="m2_m3"/>
+        <point x="90" y="15" type="via" layer="m2_m3"/>
+        <point x="88" y="77" type="via" layer="m2_m3"/>
+        <point x="21" y="46" type="via" layer="m2_m3"/>
+        <point x="7" y="38" type="via" layer="m2_m3"/>
+        <point x="33" y="114" type="via" layer="m2_m3"/>
+        <segment x1="68" y1="96" x2="68" y2="95" layer="m3"/>
+        <segment x1="47" y1="47" x2="48" y2="47" layer="m2"/>
+        <segment x1="47" y1="73" x2="48" y2="73" layer="m2"/>
+        <segment x1="51" y1="84" x2="52" y2="84" layer="m2"/>
+        <segment x1="87" y1="32" x2="89" y2="32" layer="m2"/>
+        <segment x1="91" y1="44" x2="89" y2="44" layer="m2"/>
+        <segment x1="89" y1="42" x2="89" y2="44" layer="m3"/>
+        <segment x1="33" y1="24" x2="33" y2="22" layer="m3"/>
+        <segment x1="13" y1="21" x2="15" y2="21" layer="m2"/>
+        <segment x1="66" y1="52" x2="68" y2="52" layer="m2"/>
+        <segment x1="68" y1="55" x2="68" y2="52" layer="m3"/>
+        <segment x1="9" y1="38" x2="9" y2="35" layer="m3"/>
+        <segment x1="21" y1="39" x2="21" y2="37" layer="m3"/>
+        <segment x1="21" y1="37" x2="20" y2="37" layer="m2"/>
+        <segment x1="7" y1="96" x2="7" y2="93" layer="m3"/>
+        <segment x1="48" y1="69" x2="48" y2="73" layer="m3"/>
+        <segment x1="37" y1="16" x2="37" y2="20" layer="m3"/>
+        <segment x1="58" y1="82" x2="54" y2="82" layer="m2"/>
+        <segment x1="3" y1="86" x2="7" y2="86" layer="m2"/>
+        <segment x1="57" y1="114" x2="53" y2="114" layer="m2"/>
+        <segment x1="5" y1="34" x2="5" y2="33" layer="m3"/>
+        <segment x1="5" y1="33" x2="2" y2="33" layer="m2"/>
+        <segment x1="20" y1="17" x2="20" y2="21" layer="m3"/>
+        <segment x1="53" y1="99" x2="53" y2="96" layer="m3"/>
+        <segment x1="53" y1="96" x2="52" y2="96" layer="m2"/>
+        <segment x1="29" y1="22" x2="33" y2="22" layer="m2"/>
+        <segment x1="54" y1="82" x2="54" y2="84" layer="m3"/>
+        <segment x1="54" y1="84" x2="52" y2="84" layer="m2"/>
+        <segment x1="20" y1="21" x2="15" y2="21" layer="m2"/>
+        <segment x1="5" y1="34" x2="5" y2="35" layer="m3"/>
+        <segment x1="5" y1="35" x2="9" y2="35" layer="m2"/>
+        <segment x1="93" y1="25" x2="93" y2="30" layer="m3"/>
+        <segment x1="7" y1="80" x2="7" y2="86" layer="m3"/>
+        <segment x1="15" y1="35" x2="9" y2="35" layer="m2"/>
+        <segment x1="74" y1="95" x2="68" y2="95" layer="m2"/>
+        <segment x1="37" y1="20" x2="37" y2="22" layer="m3"/>
+        <segment x1="37" y1="22" x2="33" y2="22" layer="m2"/>
+        <segment x1="93" y1="30" x2="93" y2="32" layer="m3"/>
+        <segment x1="93" y1="32" x2="89" y2="32" layer="m2"/>
+        <segment x1="54" y1="76" x2="54" y2="82" layer="m3"/>
+        <segment x1="72" y1="80" x2="72" y2="82" layer="m3"/>
+        <segment x1="72" y1="82" x2="68" y2="82" layer="m2"/>
+        <segment x1="100" y1="30" x2="93" y2="30" layer="m2"/>
+        <segment x1="7" y1="86" x2="7" y2="93" layer="m3"/>
+        <segment x1="15" y1="35" x2="15" y2="37" layer="m3"/>
+        <segment x1="15" y1="37" x2="20" y2="37" layer="m2"/>
+        <segment x1="7" y1="58" x2="7" y2="66" layer="m3"/>
+        <segment x1="80" y1="52" x2="88" y2="52" layer="m2"/>
+        <segment x1="15" y1="93" x2="7" y2="93" layer="m2"/>
+        <segment x1="67" y1="23" x2="67" y2="21" layer="m3"/>
+        <segment x1="67" y1="21" x2="73" y2="21" layer="m2"/>
+        <segment x1="56" y1="47" x2="48" y2="47" layer="m2"/>
+        <segment x1="48" y1="69" x2="48" y2="60" layer="m3"/>
+        <segment x1="54" y1="76" x2="54" y2="73" layer="m3"/>
+        <segment x1="54" y1="73" x2="48" y2="73" layer="m2"/>
+        <segment x1="67" y1="23" x2="58" y2="23" layer="m2"/>
+        <segment x1="88" y1="52" x2="88" y2="44" layer="m3"/>
+        <segment x1="88" y1="44" x2="89" y2="44" layer="m2"/>
+        <segment x1="17" y1="80" x2="7" y2="80" layer="m2"/>
+        <segment x1="29" y1="22" x2="29" y2="21" layer="m3"/>
+        <segment x1="29" y1="21" x2="20" y2="21" layer="m2"/>
+        <segment x1="93" y1="25" x2="93" y2="15" layer="m3"/>
+        <segment x1="58" y1="82" x2="68" y2="82" layer="m2"/>
+        <segment x1="89" y1="42" x2="89" y2="32" layer="m3"/>
+        <segment x1="56" y1="32" x2="56" y2="23" layer="m3"/>
+        <segment x1="56" y1="23" x2="58" y2="23" layer="m2"/>
+        <segment x1="52" y1="96" x2="52" y2="84" layer="m3"/>
+        <segment x1="80" y1="52" x2="68" y2="52" layer="m2"/>
+        <segment x1="35" y1="46" x2="35" y2="47" layer="m3"/>
+        <segment x1="35" y1="47" x2="47" y2="47" layer="m2"/>
+        <segment x1="48" y1="60" x2="48" y2="47" layer="m3"/>
+        <segment x1="68" y1="82" x2="68" y2="95" layer="m3"/>
+        <segment x1="15" y1="35" x2="15" y2="21" layer="m3"/>
+        <segment x1="7" y1="66" x2="7" y2="80" layer="m3"/>
+        <segment x1="13" y1="21" x2="13" y2="10" layer="m3"/>
+        <segment x1="13" y1="10" x2="10" y2="10" layer="m2"/>
+        <segment x1="53" y1="99" x2="53" y2="114" layer="m3"/>
+        <segment x1="66" y1="52" x2="66" y2="47" layer="m3"/>
+        <segment x1="66" y1="47" x2="56" y2="47" layer="m2"/>
+        <segment x1="56" y1="32" x2="56" y2="47" layer="m3"/>
+        <segment x1="90" y1="2" x2="90" y2="15" layer="m3"/>
+        <segment x1="90" y1="15" x2="93" y2="15" layer="m2"/>
+        <segment x1="88" y1="70" x2="88" y2="77" layer="m3"/>
+        <segment x1="88" y1="77" x2="98" y2="77" layer="m2"/>
+        <segment x1="88" y1="70" x2="88" y2="52" layer="m3"/>
+        <segment x1="58" y1="4" x2="58" y2="23" layer="m3"/>
+        <segment x1="21" y1="39" x2="21" y2="46" layer="m3"/>
+        <segment x1="21" y1="46" x2="35" y2="46" layer="m2"/>
+        <segment x1="7" y1="58" x2="7" y2="38" layer="m3"/>
+        <segment x1="7" y1="38" x2="9" y2="38" layer="m2"/>
+        <segment x1="140" y1="15" x2="93" y2="15" layer="m2"/>
+        <segment x1="33" y1="149" x2="33" y2="114" layer="m3"/>
+        <segment x1="33" y1="114" x2="53" y2="114" layer="m2"/>
+    </net>
+</root>

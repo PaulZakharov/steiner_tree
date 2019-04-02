@@ -1,0 +1,55 @@
+<root>
+  <grid min_x="0" max_x="150" min_y="0" max_y="150" />
+  <net>
+    <point x="89" y="42" layer="pins" type="pin" />
+    <point x="7" y="96" layer="pins" type="pin" />
+    <point x="37" y="16" layer="pins" type="pin" />
+    <point x="67" y="23" layer="pins" type="pin" />
+    <point x="91" y="44" layer="pins" type="pin" />
+    <point x="37" y="20" layer="pins" type="pin" />
+    <point x="15" y="93" layer="pins" type="pin" />
+    <point x="80" y="52" layer="pins" type="pin" />
+    <point x="93" y="25" layer="pins" type="pin" />
+    <point x="21" y="39" layer="pins" type="pin" />
+    <point x="20" y="17" layer="pins" type="pin" />
+    <point x="13" y="21" layer="pins" type="pin" />
+    <point x="3" y="86" layer="pins" type="pin" />
+    <point x="15" y="35" layer="pins" type="pin" />
+    <point x="53" y="99" layer="pins" type="pin" />
+    <point x="29" y="22" layer="pins" type="pin" />
+    <point x="72" y="80" layer="pins" type="pin" />
+    <point x="51" y="84" layer="pins" type="pin" />
+    <point x="58" y="82" layer="pins" type="pin" />
+    <point x="74" y="95" layer="pins" type="pin" />
+    <point x="48" y="69" layer="pins" type="pin" />
+    <point x="7" y="58" layer="pins" type="pin" />
+    <point x="88" y="70" layer="pins" type="pin" />
+    <point x="54" y="76" layer="pins" type="pin" />
+    <point x="33" y="149" layer="pins" type="pin" />
+    <point x="90" y="2" layer="pins" type="pin" />
+    <point x="48" y="60" layer="pins" type="pin" />
+    <point x="98" y="77" layer="pins" type="pin" />
+    <point x="68" y="55" layer="pins" type="pin" />
+    <point x="87" y="32" layer="pins" type="pin" />
+    <point x="47" y="73" layer="pins" type="pin" />
+    <point x="17" y="80" layer="pins" type="pin" />
+    <point x="56" y="32" layer="pins" type="pin" />
+    <point x="5" y="34" layer="pins" type="pin" />
+    <point x="100" y="30" layer="pins" type="pin" />
+    <point x="35" y="46" layer="pins" type="pin" />
+    <point x="140" y="15" layer="pins" type="pin" />
+    <point x="7" y="66" layer="pins" type="pin" />
+    <point x="33" y="24" layer="pins" type="pin" />
+    <point x="10" y="10" layer="pins" type="pin" />
+    <point x="73" y="21" layer="pins" type="pin" />
+    <point x="66" y="52" layer="pins" type="pin" />
+    <point x="2" y="33" layer="pins" type="pin" />
+    <point x="52" y="96" layer="pins" type="pin" />
+    <point x="57" y="114" layer="pins" type="pin" />
+    <point x="58" y="4" layer="pins" type="pin" />
+    <point x="20" y="37" layer="pins" type="pin" />
+    <point x="9" y="38" layer="pins" type="pin" />
+    <point x="47" y="47" layer="pins" type="pin" />
+    <point x="68" y="96" layer="pins" type="pin" />
+  </net>
+</root>
